@@ -4,7 +4,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=royal0721&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
+	<img src="https://komarev.com/ghpvc/?username=royal0721&label=Profile%20views&color=0e75b6&style=plastic" alt="royal0721" /> 
 </p>
 
 
@@ -60,7 +60,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/royal0721"><img alt="royal0721's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/royal0721"><img alt="royal0721's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=royal0721&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -68,7 +68,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royal0721&layout=compact&theme=algolia" alt="royal0721" /></a> </p>
+<p align="center"> <a href="https://github.com/royal0721/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royal0721&layout=compact&theme=algolia" alt="royal0721" /></a> </p>
 
 -----
 Credits: [royal0721](https://github.com/royal0721)
