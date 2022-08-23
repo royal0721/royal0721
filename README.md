@@ -8,7 +8,7 @@
 </p>
 
 
-## :sassy_man:  About me
+## :sassy_woman:  About me
 - :school: I am a Software Engineer intern at CAFECA
 - :trophy: `Fintech Technology contest` 2021 excellent work
 - :technologist: I love using Software as a solution for every `Problem`
