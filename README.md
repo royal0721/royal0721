@@ -48,13 +48,12 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/royal0721/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=royal0721&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/royal0721/github-readme-stats"><img alt="royal0721's Github Stats" src="https://github-readme-stats.vercel.app/api?username=royal0721&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=royal0721&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="royal0721" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+    </p>
 
 ----
 
