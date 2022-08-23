@@ -3,11 +3,6 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=royal0721&label=Profile%20views&color=0e75b6&style=plastic" alt="royal0721" /> 
-</p>
-
-
 ## :sassy_woman:  About me
 - :school: I am a Software Engineer intern at CAFECA
 - :trophy: `Fintech Technology contest` 2021 excellent work
