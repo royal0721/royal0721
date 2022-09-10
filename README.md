@@ -52,20 +52,5 @@
   <br/>
     </p>
 
-----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/royal0721"><img alt="royal0721's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=royal0721&custom_title=royal0721's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/royal0721/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royal0721&layout=compact&theme=algolia" alt="royal0721" /></a> </p>
-
------
-Credits: [royal0721](https://github.com/royal0721)
 
