@@ -47,10 +47,6 @@
   <p align="center">
     <a href="https://github.com/royal0721/github-readme-stats"><img alt="royal0721's Github Stats" src="https://github-readme-stats.vercel.app/api?username=royal0721&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=royal0721&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="royal0721" height="192px"/>
-  <br/>
-    </p>
 
 
 
