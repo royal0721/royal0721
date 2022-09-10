@@ -10,7 +10,6 @@
 - :trophy: `Fintech contest` 2021 excellent work
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `System Design`.
-- :thinking: I’m currently open for: a new `job opportunity`
 - :nerd_face: Always `learning new things`
 
 <br>
