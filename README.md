@@ -6,7 +6,7 @@
 <br>
 
 ## :sassy_woman:  About me
-- :school: I am a Frontend Engineer at ?
+- :school: I am a Frontend Engineer at a software company 
 - :trophy: `Fintech contest` 2021 excellent work
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `System Design`.
