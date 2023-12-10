@@ -7,7 +7,7 @@
 
 ## :sassy_woman:  About me
 - :school: I am a Frontend Engineer at a software company 
-- :trophy: `Fintech contest` 2021 excellent work
+- :trophy: 2023 ITHelp Ironman Award - Merit Award
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `System Design`.
 - :nerd_face: Always `learning new things`
