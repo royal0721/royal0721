@@ -9,7 +9,7 @@
 - :school: I am a Frontend Engineer at a software company 
 - :trophy: 2023 ITHelp Ironman Award - Merit Award [Security - Let's build bugs together! Learn something new from bugs.](https://ithelp.ithome.com.tw/users/20107197/ironman/6822)
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Computer Science` and `System Design`.
+- :student: I’m currently learning: `Security` and `System Design`.
 - :nerd_face: Always `learning new things`
 
 <br>
