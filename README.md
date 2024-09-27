@@ -5,7 +5,7 @@
 ## :sassy_woman:  About me
 - :school: I am a Frontend Developer at a software company 
 - :trophy: 2023 ITHelp Ironman Award - Merit Award [Security - Let's build bugs together! Learn something new from bugs.](https://ithelp.ithome.com.tw/users/20107197/ironman/6822)
-
+- If you have any questions about me, you can send the email to clemmy.liao@devsecops.com.tw.
 
 <br>
 
