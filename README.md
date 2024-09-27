@@ -1,15 +1,11 @@
 <h1 align="center">Hi , I'm Clemmy Liao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
 
 <br>
 
 ## :sassy_woman:  About me
 - :school: I am a Frontend Developer at a software company 
 - :trophy: 2023 ITHelp Ironman Award - Merit Award [Security - Let's build bugs together! Learn something new from bugs.](https://ithelp.ithome.com.tw/users/20107197/ironman/6822)
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Security` and `System Design`
+
 
 <br>
 
